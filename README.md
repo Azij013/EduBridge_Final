@@ -73,7 +73,7 @@ Mobile app version
 👤 Author
 
 MD Azijur Rahman Rafi
-BSc Student | Information Systems
+BSc Student | Information Technology & Management
 
 📄 License
 
